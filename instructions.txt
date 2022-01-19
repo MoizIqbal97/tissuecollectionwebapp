@@ -1,0 +1,13 @@
+on a terminal
+
+cd tissue-collection-webapp
+
+npm install
+npm run start
+
+on a new terminal 
+(cd tissue-collection-webapp)
+npx json-server --watch data/db.json --port 8000
+
+
+refresh page 

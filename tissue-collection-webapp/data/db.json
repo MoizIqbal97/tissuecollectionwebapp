@@ -1,0 +1,78 @@
+{
+    "collections": [
+      {
+        "id": "1",
+        "disease_term": "Cirrhosis of liver",
+        "title": "Mothers Pregnancy Samples"
+      },
+      {
+        "id": "2",
+        "disease_term": " Malignant tumour of breast",
+        "title": "Phase II multicentre study"
+      },
+      {
+        "id": "3",
+        "disease_term": "Fit and well",
+        "title": "Lymphoblastoid cell lines"
+      },
+      {
+        "id": "4",
+        "disease_term": "Chronic fatigue syndrome",
+        "title": "Samples available include ME/CFS Cases"
+      },
+      {
+        "id": "5",
+        "disease_term": "Malignant tumour of breast",
+        "title": "A randomised placebo-controlled trial"
+      },
+      {
+        "id": "6",
+        "disease_term": "TestDiseaseId6",
+        "title": "title6Test"
+      }
+    ],
+    "samples": [
+      {
+        "id": "1",
+        "collection_id": "5",
+        "donor_count": "90210",
+        "material_type": "Cerebrospinal fluid",
+        "last_updated": "2019-06-03"
+      },
+      {
+        "id": "2",
+        "collection_id": "4",
+        "donor_count": "512",
+        "material_type": "Cerebrospinal fluid",
+        "last_updated": "2019-03-08"
+      },
+      {
+        "id": "3",
+        "collection_id": "2",
+        "donor_count": "7777",
+        "material_type": "Core biopsy",
+        "last_updated": "2019-05-04"
+      },
+      {
+        "id": "4",
+        "collection_id": "2",
+        "donor_count": "90210",
+        "material_type": "Cerebrospinal 44 fluid",
+        "last_updated": "2019-06-0werewr3"
+      },
+      {
+        "id": "5",
+        "collection_id": "1",
+        "donor_count": "512",
+        "material_type": "Cerebrospinal fluid",
+        "last_updated": "2019-03-08"
+      },
+      {
+        "id": "6",
+        "collection_id": "2",
+        "donor_count": "5000",
+        "material_type": "id6collection2",
+        "last_updated": "2019-06-08"
+      }
+    ]
+  }
